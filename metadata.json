@@ -1,0 +1,6 @@
+{
+  "name": "LAGOS SURVIVAL: BLOCK WAR",
+  "description": "Survive the streets. Dominate the battlefield. Build your empire. Become a Lagos legend. An open-world 3D Nigerian action and survival experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
